@@ -33,11 +33,12 @@ Experienced Full Stack Developer with four years of expertise in **TypeScript**,
 - ![PostgreSQL](https://img.icons8.com/color/20/000000/postgreesql.png) **PostgreSQL**
 - ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) **MongoDB**
 - **SQLite**
+- SurrealDB
 
 ### **Cloud Platforms**
 
 - ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) **Firebase**
-- ![DigitalOcean](https://img.icons8.com/ios-filled/20/000000/digital-ocean.png) **DigitalOcean**
+- !([digitalocean](https://github.com/surrealdb/icons/blob/main/digitalocean.svg)) **DigitalOcean**
 
 ### **UI/UX Design**
 

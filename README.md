@@ -152,4 +152,3 @@ Experienced Full Stack Developer with four years of expertise in **TypeScript**,
 
 ---
 
-# **End of CV**

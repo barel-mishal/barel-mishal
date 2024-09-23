@@ -39,7 +39,7 @@ Experienced Full Stack Developer with four years of expertise in **TypeScript**,
 
 - ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) **Firebase**
 - 
-- ![digitalocean](https://img.icons8.com/?size=20&id=113621&format=png&color=000000) **DigitalOcean**
+- ![digitalocean](https://img.icons8.com/?size=20&id=113621&format=png&color=blue) **DigitalOcean**
 
 ### **UI/UX Design**
 
